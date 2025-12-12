@@ -1,0 +1,17 @@
+# build artifacts
+*.o
+server
+client
+
+# logs
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
