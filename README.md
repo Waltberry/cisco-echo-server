@@ -21,6 +21,7 @@ This is intentionally minimal, fast to review, and aligned with typical networki
 ## Project Structure
 
 
+```
 .
 ├── include/
 │   └── common.hpp
@@ -33,6 +34,9 @@ This is intentionally minimal, fast to review, and aligned with typical networki
 │   └── run_local.sh
 ├── Makefile
 └── README.md
+
+
+```
 
 ````
 
